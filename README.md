@@ -22,7 +22,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
 
 - :telescope: I can contribute to both the frontend and the backend for web applications.
-- :seedling: I always try to imporove my skillset and as such I am currently enrolled in [ALX Software Engineering Track](https://alxafrica.com).
+- :seedling:I'm an [ALX Software Grad](https://alxafrica.com).
 - :zap: In my free time, I like configuring and tweaking the best text editor(neovim). I also love playing chess, always up for a [game](https://lichess.org/jaminux).
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/milkias-yeheyis-287284230) [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jaminux)
 
